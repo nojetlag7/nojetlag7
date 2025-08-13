@@ -3,40 +3,28 @@
 ```typescript
 const profile = {
   name: "Jeremy Omane-Antwi Boateng",
-  bio: "Always open to new challenges to improve and explore, love to read novels, write poetry, playing chess, and occasionally wrestling with bugs for weeks when error messages betray me.",
-  currentWork: "Not currently working on anything, open for collaboration.",
-  learning: "Currently working on improving upon backend skillset through spring boot, hilla  and node.js",
-  interests: "Exploring New Languages,Cybersecurity,App Development,Machine Learning",
-  skills: [
-    "React",
-    "HTML5",
-    "CSS3",
-    "Tailwind",
-    "Spring",
-    "MySQL",
-    "PostgreSQL",
-    "Docker",
-    "React Native",
-    "JavaScript",
-    "TypeScript",
-    "Python",
-    "Java",
-    "C++"
-  ],
+  age: 20,
+  bio: "Always open to new challenges to improve and explore, love to read novels, write poetry, playing chess, and occasionally wrestling with bugs for weeks when error messages betray me.Also, I love to watch good films and think everyone else should appreciate art when given the chance to do so.",
+  interests: "Exploring New Languages,Cybersecurity,App Development,Machine Learning,Chess",
+  soft_skills : [
+    "Leadership",
+    "Teamwork",
+    "Communication",
+    "Public Speaking",
+    "Attention to detail",
+    "Conflict Resolution",
+    "Mentoring"
+  ]
 }
 ```
 
 ## 🔭 I'm currently working on
 
-Not currently working on anything, open for collaboration.
+Not currently working on anything, open to ideas and for collaboration.
 
 ## 🌱 I'm currently learning
 
-Currently working on improving upon backend skillset through spring boot, hilla  and node.js
-
-## 👀 I'm interested in
-
-Exploring New Languages, Cybersecurity, App Development, Machine Learning
+Currently working on improving my backend skillset with Spring boot, hilla  and node.js and also working on some DSA with java.
 
 ## 📊 GitHub Stats
 
@@ -70,12 +58,13 @@ Exploring New Languages, Cybersecurity, App Development, Machine Learning
     "Tailwind"
   ],
   "backend": [
-    "Spring",
+    "Spring Boot",
     "MySQL",
     "PostgreSQL"
   ],
   "devops": [
-    "Docker"
+    "Docker",
+    "Render"
   ],
   "mobile": [
     "React Native"
@@ -113,8 +102,8 @@ const contact = {
 ```
 
 ```typescript
-// Thanks for visiting my profile!
+// Thanks for visiting!
 console.log("Let's connect and collaborate on exciting projects!");
 
-process.exit(0); // Until next time 👋
+process.exit(0); // Until next time :}
 ```
