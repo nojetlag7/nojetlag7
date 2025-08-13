@@ -4,7 +4,7 @@
 const profile = {
   name: "Jeremy Omane-Antwi Boateng",
   age: 20,
-  bio: "Always open to new challenges to improve and explore, love to read novels, write poetry, playing chess, and occasionally wrestling with bugs for weeks when error messages betray me.Also, I love to watch good films and think everyone else should appreciate art when given the chance to do so.",
+  bio: "Always open to new challenges to improve and explore, love to read novels, write poetry, playing chess, and occasionally wrestling with bugs for weeks when error messages betray me.\nAlso, I love to watch good films and think everyone else should appreciate art when given the chance to do so.",
   interests: "Exploring New Languages,Cybersecurity,App Development,Machine Learning,Chess",
   soft_skills : [
     "Leadership",
