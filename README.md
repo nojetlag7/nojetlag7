@@ -49,14 +49,14 @@ Exploring New Languages, Cybersecurity, App Development, Machine Learning
 
 <!-- ⚠️ Important: Replace 'github.com.nojetlag7' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=github.com.nojetlag7&layout=compact&langs_count=10&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nojetlag7&layout=compact&langs_count=10&theme=dark"/>
 </div>
 
 ## 🔥 Contribution Streak
 
 <!-- ⚠️ Important: Replace 'github.com.nojetlag7' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=github.com.nojetlag7&theme=dark&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nojetlag7&theme=dark&hide_border=false" />
 </div>
 
 ## 💻 Tech Stack
