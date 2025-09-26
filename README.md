@@ -90,7 +90,7 @@ const socials = {
 ```
 
 <div>
-<a href="in/jeremy-boateng-7364012ba"><img src="https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com.nojetlag7"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://leetcode.com/jspluto"><img src="https://img.shields.io/badge/leetcode-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=white" /></a> 
+<a href="in/jeremyomaneantwiboateng"><img src="https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com.nojetlag7"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://leetcode.com/jspluto"><img src="https://img.shields.io/badge/leetcode-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=white" /></a> 
 </div>
 
 ## 📫 How to reach me
