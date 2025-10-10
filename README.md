@@ -59,6 +59,7 @@ Currently working on improving my backend skillset with Spring boot, hilla  and 
   ],
   "backend": [
     "Spring Boot",
+    "SupaBase",
     "MySQL",
     "PostgreSQL"
   ],
@@ -84,7 +85,7 @@ Currently working on improving my backend skillset with Spring boot, hilla  and 
 ```javascript
 const socials = {
   github: "github.com.nojetlag7",
-  linkedin: "jeremy-boateng-7364012ba",
+  linkedin: "in/jeremyomaneantwiboateng",
   leetcode: "jspluto",
 }
 ```
