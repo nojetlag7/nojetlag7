@@ -66,6 +66,16 @@ Co-developed a mentorship platform for 150+ mentors and 300+ first-year mentees,
   <img src="https://streak-stats.demolab.com/?user=nojetlag7&theme=shadow_blue&hide_border=false" />
 </div>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nojetlag7/nojetlag7/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nojetlag7/nojetlag7/output/snake-light.svg" />
+    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/nojetlag7/nojetlag7/output/snake-dark.svg" width="100%" />
+  </picture>
+</p>
+
 ## 💻 Tech Stack
 
 **Languages**
